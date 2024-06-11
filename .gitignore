@@ -1,3 +1,4 @@
 /client/node_modules
 /backend/ServiceAccount.json
 /backend/node_modules
+/client/src/firebase.ts
